@@ -20,7 +20,7 @@ A repository of simple and easy projects to help learn the fundamentals of web d
 
 <br>
 
-### The "video-demo.webm" file provides a short video showing what will be made and how it works once completed  
+### The "video-demo.webm" file provides a short video showing the finished project  
 - this is a video showing what is made and a quick demo of how it work
 - while some styling is instructed, colors are completely up to you
 
