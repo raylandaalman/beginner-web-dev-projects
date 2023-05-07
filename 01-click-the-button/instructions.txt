@@ -1,0 +1,25 @@
+Goal: Make a simple button that will update the DOM.
+
+STEP 1:
+- In your HTML, make a button that contains the text "Click The Button"
+
+STEP 2:
+- Center the button
+
+STEP 3:
+- Style the button with:
+--- A larger font
+--- A different background color
+--- A different font color
+--- A border radius
+
+- Any other styling is your choice
+
+STEP 4:
+- In your JavaScript file, add an event listener that listens for a the button to be clicked
+- On the event the button is clicked, have a function be invoked
+- The function should:
+--- Create a new paragraph element
+--- Create a new text node stating, "You Clicked The Button"
+--- Add the text node to the paragraph element
+--- Add the text element to the document body

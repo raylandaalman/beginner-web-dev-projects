@@ -1,0 +1,32 @@
+body {
+    background-color: #303030;
+}
+
+h1, h2 {
+    color: #DDD;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+button {
+    width: 2em;
+    font-size: 1.5em;
+    background-color: #0d0d0d;
+    color: #DDD;
+    border-radius: 15px;
+}
+
+#clicky {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    align-items: center;
+    gap: 1.5em;
+    height: 1.5em;
+    position: relative;
+}

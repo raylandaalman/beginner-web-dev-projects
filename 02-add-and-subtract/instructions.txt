@@ -1,0 +1,28 @@
+Goal: Make two buttons that will update a number in the DOM
+
+STEP 1:
+- In your HTML, create a new <div>
+- This <div> should contain three elements:
+--- One button that contains the text: "-1"
+--- A header-2 element that contains the number: 0
+--- A second button that contains the text: "+1"
+
+STEP 2:
+- Center the <div>
+- This centering should also line up the button, header-2, and second button horizontally
+
+STEP 3:
+- Style your buttons with:
+--- A different background color
+--- A different font color
+--- Add rounded corners
+--- Increase the size of the font
+
+- Any other styling is your choice
+
+STEP 4:
+- In your JavaScript file, add event listeners for the two buttons
+- In the event that button "-1" is clicked:
+--- Create a function that will update the header-2 element to subtract the current number by 1
+- In the event that button "+1" is clicked:
+--- Create a function that will update the header-2 element to add the current number by 1
