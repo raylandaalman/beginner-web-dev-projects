@@ -3,7 +3,9 @@
 
 A repository of simple and easy projects to help learn the fundamentals of web development
 
-## The content inside of each folder is as follows:
+<br>
+
+### The content inside of each folder is as follows:
 - instructions.txt
 - video-demo.webm
 - solution
