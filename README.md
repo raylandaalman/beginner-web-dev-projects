@@ -31,7 +31,7 @@ A repository of simple and easy projects to help learn the fundamentals of web d
 
 <br>
 
-### The goal is to learn how to problem solve on simple projects for new developers**  
+### The goal is to learn how to problem solve on simple projects for new developers  
 - Use your search engine of choice
 - Utilize online sites such as MDN, CSS Tricks, Stack Overflow, and more
 - Mistakes are unavoidable, take your time
