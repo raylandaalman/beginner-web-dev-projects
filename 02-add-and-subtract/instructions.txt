@@ -9,7 +9,8 @@ STEP 1:
 
 STEP 2:
 - Center the <div>
-- This centering should also line up the button, header-2, and second button horizontally
+- Line up the first button, header-2, and the second button horizontally
+--- Use Flexbox or Grid, your choice
 
 STEP 3:
 - Style your buttons with:
