@@ -22,4 +22,4 @@ STEP 4:
 --- Create a new paragraph element
 --- Create a new text node stating, "You Clicked The Button"
 --- Add the text node to the paragraph element
---- Add the text element to the document body
+--- Add the paragraph element to the document body
