@@ -1,5 +1,5 @@
 
-# beginner-web-dev-projects
+# Beginner Projects for New Web Developers
 
 A repository of simple and easy projects to help learn the fundamentals of web development
 
