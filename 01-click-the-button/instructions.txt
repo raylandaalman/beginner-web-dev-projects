@@ -16,7 +16,7 @@ STEP 3:
 - Any other styling is your choice
 
 STEP 4:
-- In your JavaScript file, add an event listener that listens for a the button to be clicked
+- In your JavaScript file, add an event listener that listens for the button to be clicked
 - On the event the button is clicked, have a function be invoked
 - The function should:
 --- Create a new paragraph element
